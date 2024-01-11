@@ -16,5 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+- 📫 Feel free to reach me: e_yi [at] outlook [dot] com
+  
 [![eyi's github stats](https://github-readme-stats.vercel.app/api?username=e-yi)](https://github.com/anuraghazra/github-readme-stats)
 
